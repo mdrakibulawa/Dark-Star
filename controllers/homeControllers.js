@@ -1,7 +1,7 @@
 const path = require('path')
 
 const homeController = (req, res)=>{
-    res.render('index.ejs')
+    res.render('home.ejs')
 }
 
 module.exports = homeController;
