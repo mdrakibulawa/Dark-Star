@@ -12,4 +12,3 @@ fetch('https://api.ipify.org?format=json')
     // Handle errors
     console.error('Error:', error);
   });
-
